@@ -8,13 +8,13 @@ function App() {
   return (
     <>
 <header className="header">
-<h1>Fitness Platform</h1>
-<p>Your Journey to a Healthier Lifestyle Starts Here!</p>
+<h1>Easy Weigh Fitness</h1>
+<p>Your Journey to a Healthier Lifestyle Starts Here</p>
 </header>
 <section className="main-content">
   <div className="card">
-    <h2>Welcome to our Fitness Platform!</h2>
-    <p>Discover a variety of workouts, nutrition plans and expert guidance. </p>
+    <h2><center>WELCOME TO EASY WEIGH FITNESS</center></h2>
+    <p><center>Your source to reach your health and fitness goals in a fun and eay way</center></p>
   </div>
   <div className="cta">
     <h3>Get Started Today!</h3>
@@ -23,7 +23,7 @@ function App() {
         setCount(count + 1)
       }
     } > Join Now</button>
-    <p>{`${count} people have joined the site`}</p>
+    <p>{`${count} health enthusiasts have joined the site`}</p>
 
   </div>
   </section>
