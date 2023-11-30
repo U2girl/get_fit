@@ -5,13 +5,12 @@ const HeaderPage = () => {
     <React.Fragment>
     <main>
       <div className="px-10 space-y-4 h-48 centered flex-col">
-      <p className="text-5xl font-bold textColor"> Gooddo Fitness Club</p>
-      <p className="text-center text-gray-600">Create professional easy Drag-n-Drop Nicepage editor. other design elements, as well as content and images.</p>
+      <p className="text-5xl font-bold textColor"> Getting Fit the Easy Way!</p>
+      <p className="text-center text-gray-600">Who says that getting fit has to be hard. Here, we get fit the Easy Way!</p>
       
       </div>
     </main>
-  </React.Fragment>
-    
+  </React.Fragment> 
   )
 }
 
