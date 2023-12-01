@@ -1,6 +1,6 @@
 <h1>Easy Weigh Fitness</h1>
 
-Page created utilizing HTML, CSS, Javascript and React.  This page is an introduction to Easy Weigh Fitness.  A site that focuses on helping people to get fit without feeling  alone or overwhelmemd.  The API used was Youtube, which pulls free workout videos that can be done based on your current level of fitness.  The site also details some of the options that are offered including nutrition guidance and personalized training.  Whenever someone clicks on 'Join Now' the page counts. 
+Page created utilizing HTML, CSS, Javascript and React.  This page is an introduction to Easy Weigh Fitness.  A site that focuses on helping people to get fit without feeling  alone or overwhelmemd.  The API used was Youtube - https://www.googleapis.com/youtube/v3/search.  This API allows you to pull free workout videos that can be done based on your current level of fitness.  The site also details some of the options that are offered including nutrition guidance and personalized training.  Whenever someone clicks on 'Join Now' the page counts. 
 
 If you click on one of the videos, you are able to pull up the video, press play.
 
@@ -52,6 +52,7 @@ Week 3
 
 
 Week 4
+
 
 <h2>Future changes</h2>
 I would like a week by week breakdown of workouts that are appropriate for a beginner, intermediate and advanced. 
