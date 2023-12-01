@@ -56,7 +56,9 @@ Week 4
 
 
 <h2>Future changes</h2>
-I would like a week by week breakdown of workouts that are appropriate for a beginner, intermediate and advanced. 
+I would like a week by week breakdown of workouts that are appropriate for a beginner, intermediate and advanced.
+
+Add About and Contact information.
 
 
 
